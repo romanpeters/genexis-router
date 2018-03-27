@@ -1,2 +1,3 @@
-# genexis-router-api
-Python API for Genexis DRGOS HRG1000
+# genexis-router
+Python3 API for Genexis DRGOS HRG1000
+
