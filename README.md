@@ -3,6 +3,10 @@ Python3 API for Genexis DRGOS HRG1000
 
 Requires Python>=3.6
 
+#### Notice
+In its current form this library can only read some basic information from the router. This project is no longer under development, since I upgraded my router with a better working model.
+
+
 #### How to use:
 ```
 import genexis
